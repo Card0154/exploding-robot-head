@@ -37,8 +37,8 @@ body {
   width: 46px;
   position: absolute;
   transform: translateX(-50%);
-  top: 50%;
-  left: 20%;
+  top: 30%;
+  left: 50%;
 }
 
 .robot-head-right,
